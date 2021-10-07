@@ -1,4 +1,5 @@
 {
+  "save-token": { "message": "Token salvo com sucesso!" },
   "search-location-place": {
     "locations": [],
     "places": [
