@@ -1,0 +1,101 @@
+{
+  "search-location-place": {
+    "locations": [],
+    "places": [
+      {
+        "name": "googleLocations/ChIJH0ghf_2a25QRS8hz9NdZX4k",
+        "location": {
+          "locationName": "Mercado Girardi",
+          "primaryCategory": {
+            "displayName": "Mercado",
+            "categoryId": "gcid:market",
+            "moreHoursTypes": [
+              {
+                "hoursTypeId": "ACCESS",
+                "displayName": "Access",
+                "localizedDisplayName": "Acesso"
+              },
+              {
+                "hoursTypeId": "BREAKFAST",
+                "displayName": "Breakfast",
+                "localizedDisplayName": "Café da manhã"
+              },
+              {
+                "hoursTypeId": "BRUNCH",
+                "displayName": "Brunch",
+                "localizedDisplayName": "Brunch"
+              },
+              {
+                "hoursTypeId": "DELIVERY",
+                "displayName": "Delivery",
+                "localizedDisplayName": "Entrega"
+              },
+              {
+                "hoursTypeId": "DINNER",
+                "displayName": "Dinner",
+                "localizedDisplayName": "Jantar"
+              },
+              {
+                "hoursTypeId": "DRIVE_THROUGH",
+                "displayName": "Drive through",
+                "localizedDisplayName": "Drive-through"
+              },
+              {
+                "hoursTypeId": "HAPPY_HOUR",
+                "displayName": "Happy hours",
+                "localizedDisplayName": "Happy hours"
+              },
+              {
+                "hoursTypeId": "KITCHEN",
+                "displayName": "Kitchen",
+                "localizedDisplayName": "Cozinha"
+              },
+              {
+                "hoursTypeId": "LUNCH",
+                "displayName": "Lunch",
+                "localizedDisplayName": "Almoço"
+              },
+              {
+                "hoursTypeId": "ONLINE_SERVICE_HOURS",
+                "displayName": "Online service hours",
+                "localizedDisplayName": "Horário de atendimento on-line"
+              },
+              {
+                "hoursTypeId": "PICKUP",
+                "displayName": "Pickup",
+                "localizedDisplayName": "Retirada"
+              },
+              {
+                "hoursTypeId": "TAKEOUT",
+                "displayName": "Takeout",
+                "localizedDisplayName": "Para viagem"
+              },
+              {
+                "hoursTypeId": "SENIOR_HOURS",
+                "displayName": "Senior hours",
+                "localizedDisplayName": "Horário para idosos"
+              }
+            ]
+          },
+          "websiteUrl": "http://mercadogirardi.vitrinevirtual.net/",
+          "locationKey": {
+            "placeId": "ChIJH0ghf_2a25QRS8hz9NdZX4k"
+          },
+          "latlng": {
+            "latitude": -25.5101051,
+            "longitude": -48.5263711
+          },
+          "languageCode": "pt",
+          "address": {
+            "regionCode": "BR",
+            "languageCode": "pt",
+            "postalCode": "83221-540",
+            "administrativeArea": "PR",
+            "locality": "Paranaguá",
+            "addressLines": ["Rua Francisco Machado"]
+          }
+        }
+      }
+    ]
+  }
+}
