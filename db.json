@@ -1,4 +1,6 @@
 {
+  "invite-location-gmb": { "message": "Ok" },
+  "integrate-gmb": { "message": "Ok" },
   "save-token": { "message": "Token salvo com sucesso!" },
   "search-location-place": {
     "locations": [],
